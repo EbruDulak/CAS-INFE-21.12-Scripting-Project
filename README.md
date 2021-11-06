@@ -1,5 +1,5 @@
 # CAS-INFE-21.12-Scripting-Project
-Scripting Project - Group 10
+Scripting Project - Group 10 test
 
 ## Kita Zürich
 ### Fragestellung
