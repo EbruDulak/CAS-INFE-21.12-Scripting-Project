@@ -2836,7 +2836,7 @@
 				"objectid" : 3,
 				"objid" : "32",
 				"qnr" : 82,
-				"qname" : "Mühlebach",
+				"qname" : "Muehlebach",
 				"knr" : 8,
 				"kname" : "Kreis 8"
 			}
@@ -9478,7 +9478,7 @@
 				"objectid" : 19,
 				"objid" : "20",
 				"qnr" : 101,
-				"qname" : "Höngg",
+				"qname" : "Hoengg",
 				"knr" : 10,
 				"kname" : "Kreis 10"
 			}
